@@ -1,0 +1,23 @@
+body{
+    background-image: url("./img/yyyyyyyyy.jpg");
+    background-size: 100%
+}
+.tab h1 {
+    color: greenyellow;
+}
+.box input {
+    border-radius: 8px;
+    padding: 5px;
+}
+.result {
+    margin: auto;
+    text-align: center;
+    color: red;
+    font-size: 20px;
+    height: 300px;
+    width: 300px;
+}
+.result:hover {
+    background: rgb(70, 69, 68);
+    border-radius: 20px;
+}
